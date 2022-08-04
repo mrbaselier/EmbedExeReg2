@@ -16,7 +16,7 @@ How does the code work:
 
 The original code worked with 1 registry key and only 1 .bat file. Ofcourse we can overwrite the existing .bat file but for now I have chosen to create a second one. The .bat file was crashing on my machine on the registry data. Besides that did the original code holds some characters that my compiler was crashing on (^ / not used for a XOR operation). 
 
-See it in action (Dutch): 
+See it in action (Dutch): https://www.youtube.com/watch?v=CwWutqb0fkM
 
 I used Visual Studio to compile the C++ code as C++ Console App
 *note, when using Visual Studio check the Project Character Set is "Use Multi-Byte Character Set" and not "Use Use Unicode Character Set".
